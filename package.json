@@ -1,0 +1,16 @@
+{
+  "name": "deletefile-brunch",
+  "version": "0.0.1",
+  "description": "delete files",
+  "author": "suziwen (suziwen1@gmail.com)",
+  "homepage": "https://github.com/suziwen/deletefile-brunch",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:suziwen/deletefile-brunch"
+  },
+  "main": "./lib/index",
+  "dependencies": {
+    "fs-extra": "1.0.0"
+  },
+  "devDependencies": {}
+}
