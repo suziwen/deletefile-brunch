@@ -1,5 +1,7 @@
 # deletefile-brunch
 
+Inspired from [assetsmanager-brunch](https://github.com/ocombe/assetsmanager-brunch)
+
 ## License
 
 The MIT License (MIT)
